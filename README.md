@@ -14,7 +14,7 @@ We constructed a model from a combination of the TEEB dataset, physical paramete
 
 
 <div style="text-align:center">
-<img src="http://www.sciweavers.org/tex2img.php?eq=T_C%20%3D%20%28D%2B%5Csum_%7Bi%7D%20S_%7Bi%7D%29%281%2BP_%7Burban%7D%29%281-E%29&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0" align="center" border="0" alt="T_C = (D+\sum_{i} S_{i})(1+P_{urban})(1-E)" width="283" height="40" />
+<img src="https://bit.ly/3akZOoN" align="center" border="0" alt="T_C = (D+\sum_{i} S_{i})(1+P_{urban})(1-E)" width="283" height="40" />
 </div>
 
 ## References
